@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "SimpleList"
+name = "simple_list"
 version = "0.1.0"
